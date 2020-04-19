@@ -1,1 +1,2 @@
+#COVID19-TRACKER
 This project was created to show real world data of infected/recovered/dead people of the new COVID19. I was annoyed from the tabel, which is desplayed at world calculator, therefore I have decided to visualize data in the better a more readable way than the world calculator provides. I hope you will find this useful and stay tuned for next generation of this project with combination with google maps.
